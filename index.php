@@ -9,7 +9,7 @@ include 'Fish.php';
  * and open the template in the editor.
  */
 
-$sally = new Dog( "Sally" , 100, 50);
+$sally = new Dog( "Sally123" , 100, 50);
 $sally->printName();
 $sally->fetch( "stick" );
 $sally->speak();
